@@ -1,0 +1,7 @@
+name,domain,sector,city,brands,employees,revenue,description,contact_name,title,email
+Autos Premium Madrid,autospremiummadrid.example,,Madrid,"Mercedes-Benz, Smart",120,45M,Concesionario oficial Mercedes-Benz en Madrid con taller y posventa,Carlos Martín,Director General,
+Motor Centro Sur,motorcentrosur.example,,Sevilla,"Seat, Cupra",35,8M,Concesionario Seat y Cupra con vehículos km0 y ocasión,,,
+Ocasión Rápida,ocasionrapida.example,,Valencia,,6,,Compra venta de coches de segunda mano multimarca,Laura Gil,Gerente,laura@ocasionrapida.example
+Construcciones Levante SA,construccioneslevante.example,,Alicante,,310,60M,Constructora de obra civil e infraestructuras y edificación residencial,,,
+Reformas Hermanos Pérez,reformasperez.example,,Zaragoza,,9,,Reformas integrales y rehabilitación de viviendas,José Pérez,Propietario,
+Promociones Norte,promocionesnorte.example,,Bilbao,,45,15M,Promotora inmobiliaria de vivienda nueva,,,

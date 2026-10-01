@@ -1,0 +1,31 @@
+# What Urbex is selling, per sector/tier. Templates pull from here so you can
+# change the pitch without touching the templates. Edit freely — these are
+# placeholders until you lock the value proposition.
+default:
+  one_liner: "Urbex ayuda a empresas como la vuestra a captar más clientes cualificados sin ampliar el equipo comercial."
+  proof: "En las primeras pruebas con negocios locales hemos conseguido reuniones con decisores en menos de dos semanas."
+  cta: "¿Tendrías 15 minutos esta semana o la próxima para que te lo enseñe?"
+  calendar_url: ""
+
+automotive_dealer:
+  high:
+    pain: "clientes de alto ticket que comparan concesionarios premium y deciden por la experiencia, no por el precio"
+    one_liner: "Urbex ayuda a concesionarios premium a convertir más tráfico cualificado en citas de venta y posventa."
+    proof: "Trabajamos con negocios donde cada cliente vale miles de euros y la atención personalizada es parte del producto."
+  mid:
+    pain: "mucho tráfico de portales y poca conversión a visita en exposición"
+    one_liner: "Urbex ayuda a concesionarios a convertir los leads de portales y web en visitas reales al concesionario."
+  low:
+    pain: "vender stock de ocasión rápido con márgenes ajustados y poco equipo"
+    one_liner: "Urbex ayuda a concesionarios de ocasión a rotar stock más rápido sin invertir más en publicidad."
+
+construction:
+  high:
+    pain: "ganar licitaciones y proyectos privados grandes con un pipeline que no depende solo de la red de contactos"
+    one_liner: "Urbex ayuda a constructoras a abrir conversaciones con promotores y clientes corporativos de forma sistemática."
+  mid:
+    pain: "depender del boca a boca y de dos o tres clientes grandes"
+    one_liner: "Urbex ayuda a constructoras medianas a conseguir nuevos clientes de forma predecible."
+  low:
+    pain: "conseguir reformas y obras pequeñas sin perder tiempo en presupuestos que no cierran"
+    one_liner: "Urbex ayuda a pequeñas constructoras y reformistas a conseguir clientes que sí cierran."
